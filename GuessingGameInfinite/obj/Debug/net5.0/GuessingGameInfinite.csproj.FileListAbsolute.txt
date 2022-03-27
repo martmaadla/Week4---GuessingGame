@@ -1,0 +1,16 @@
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameInfinite\obj\Debug\net5.0\GuessingGameInfinite.csproj.AssemblyReference.cache
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameInfinite\obj\Debug\net5.0\GuessingGameInfinite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameInfinite\obj\Debug\net5.0\GuessingGameInfinite.AssemblyInfoInputs.cache
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameInfinite\obj\Debug\net5.0\GuessingGameInfinite.AssemblyInfo.cs
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameInfinite\obj\Debug\net5.0\GuessingGameInfinite.csproj.CoreCompileInputs.cache
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameInfinite\bin\Debug\net5.0\GuessingGameInfinite.exe
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameInfinite\bin\Debug\net5.0\GuessingGameInfinite.deps.json
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameInfinite\bin\Debug\net5.0\GuessingGameInfinite.runtimeconfig.json
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameInfinite\bin\Debug\net5.0\GuessingGameInfinite.runtimeconfig.dev.json
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameInfinite\bin\Debug\net5.0\GuessingGameInfinite.dll
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameInfinite\bin\Debug\net5.0\ref\GuessingGameInfinite.dll
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameInfinite\bin\Debug\net5.0\GuessingGameInfinite.pdb
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameInfinite\obj\Debug\net5.0\GuessingGameInfinite.dll
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameInfinite\obj\Debug\net5.0\ref\GuessingGameInfinite.dll
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameInfinite\obj\Debug\net5.0\GuessingGameInfinite.pdb
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameInfinite\obj\Debug\net5.0\GuessingGameInfinite.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.csproj.AssemblyReference.cache
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.AssemblyInfoInputs.cache
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.AssemblyInfo.cs
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.csproj.CoreCompileInputs.cache
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.exe
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.deps.json
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.runtimeconfig.json
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.runtimeconfig.dev.json
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.dll
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameThreeTries\bin\Debug\net5.0\ref\GuessingGameThreeTries.dll
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.pdb
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.dll
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameThreeTries\obj\Debug\net5.0\ref\GuessingGameThreeTries.dll
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.pdb
+C:\Users\mart.maadla\source\repos\GuessingGameInfinite\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.genruntimeconfig.cache
